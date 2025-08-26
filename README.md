@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Tushar Gaikwad  
 
-<!--
-**gaikwadtushar-19/gaikwadtushar-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a beginner in **Data Analytics**.  
+I have completed **Excel, SQL, and Power BI**, and I am learning **Tableau and Python**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 What I Know
+- Excel (Data Cleaning, Pivot Tables, Dashboards)  
+- SQL (Basic Queries, Joins, Subqueries)  
+- Power BI (Data Modeling, DAX, Dashboards)  
+- Learning: Tableau & Python  
+
+---
+
+## 📂 Projects
+- Excel Dashboard – Visualizing data with KPIs  
+- SQL Queries – Practicing Joins & Subqueries  
+- Power BI Report – Interactive Sales Dashboard  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn:  www.linkedin.com/in/tushargaikwad19    
+- Email: gaikwadtushar5555@gmail.com
