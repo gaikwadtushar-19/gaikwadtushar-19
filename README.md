@@ -21,6 +21,14 @@ Currently, I am building projects in SQL and Power BI while expanding my analyti
 
 ---
 
+## Certifications  
+
+- Advanced Excel (Data Cleaning, PivotTables, Automation)  
+- SQL (Relational Databases, Joins, Query Optimization)  
+- Power BI (DAX, Data Modeling, Dashboard Design)  
+  
+---
+
 ## Projects  
 
 ### Power BI Sales Dashboard  
