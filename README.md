@@ -1,28 +1,38 @@
 # Hi, I'm Tushar Gaikwad  
 
-🔹 **Aspiring Data Analyst** with skills in **SQL and Power BI**  
-🔹 Currently learning **Tableau & Python** to expand my analytics toolkit  
-🔹 Passionate about turning raw data into meaningful insights for decision-making  
+## Contact  
+- LinkedIn: [Your LinkedIn Link](https://linkedin.com/in/YOUR-LINK)  
+- Email: your-email@example.com  
 
 ---
 
-##  Skills  
-- **SQL**: Queries, Joins, Subqueries, Database Management  
-- **Power BI**: Data Modeling, DAX, Interactive Dashboards  
-- **Learning**: Tableau, Python  
+## About Me  
+I am an aspiring Data Analyst with skills in SQL and Power BI, currently learning Tableau and Python.  
+I am passionate about using data to solve problems and help businesses make better decisions.  
+Currently, I am building projects in SQL and Power BI while expanding my analytics toolkit.  
 
 ---
 
-##  Projects  
--  **Power BI Sales Dashboard** – Interactive report to track KPIs and sales trends  
--  **SQL Database Project** – Movie Ticket Booking System (queries & design)  
+## Skills & Tools  
+- SQL: Queries, Joins, Subqueries, Database Design  
+- Power BI: Data Modeling, DAX, Interactive Dashboards  
+- Tableau (Learning): Visual Analytics & Dashboards  
+- Python (Learning): Data Analysis, Pandas, Visualization  
 
 ---
 
-##  Connect with Me  
-- LinkedIn: www.linkedin.com/in/tushargaikwad19
--  Email: gaikwadtushar5555@gmail.com
+## Projects  
+
+### Power BI Sales Dashboard  
+- Built an interactive dashboard to analyze sales and profit performance  
+- Includes KPIs, trends, and regional analysis  
+- Helps identify top-performing categories and regions  
+
+### SQL Movie Ticket Booking System  
+- Created a database system for movie ticket booking  
+- Wrote SQL queries for managing bookings, users, and schedules  
+- Practiced database design and normalization concepts  
 
 ---
 
-✨ *I’m eager to apply my knowledge in real-world projects and grow as a Data Analyst.* ✨
+I am eager to contribute to data-driven projects, apply my skills to real-world problems, and grow as a Data Analyst.
