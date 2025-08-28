@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tushar Gaikwad  
+# Hi, I'm Tushar Gaikwad  
 
 🔹 **Aspiring Data Analyst** with skills in **SQL and Power BI**  
 🔹 Currently learning **Tableau & Python** to expand my analytics toolkit  
@@ -6,22 +6,22 @@
 
 ---
 
-## 🛠️ Skills  
+##  Skills  
 - **SQL**: Queries, Joins, Subqueries, Database Management  
 - **Power BI**: Data Modeling, DAX, Interactive Dashboards  
 - **Learning**: Tableau, Python  
 
 ---
 
-## 📂 Projects  
-- 📊 **Power BI Sales Dashboard** – Interactive report to track KPIs and sales trends  
-- 🎬 **SQL Database Project** – Movie Ticket Booking System (queries & design)  
+##  Projects  
+-  **Power BI Sales Dashboard** – Interactive report to track KPIs and sales trends  
+-  **SQL Database Project** – Movie Ticket Booking System (queries & design)  
 
 ---
 
-## 📫 Connect with Me  
+##  Connect with Me  
 - LinkedIn: www.linkedin.com/in/tushargaikwad19
-- 📧 Email: gaikwadtushar5555@gmail.com
+-  Email: gaikwadtushar5555@gmail.com
 
 ---
 
