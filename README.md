@@ -1,8 +1,8 @@
 # Hi, I'm Tushar Gaikwad  
 
 ## Contact  
-- LinkedIn: [Your LinkedIn Link](https://linkedin.com/in/YOUR-LINK)  
-- Email: your-email@example.com  
+- LinkedIn: www.linkedin.com/in/tushargaikwad19 
+- Email: gaikwadtushar5555@gmail.com
 
 ---
 
