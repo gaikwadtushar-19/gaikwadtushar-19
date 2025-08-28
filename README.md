@@ -1,25 +1,28 @@
 # 👋 Hi, I'm Tushar Gaikwad  
 
-I am a beginner in **Data Analytics**.  
-I have completed **Excel, SQL, and Power BI**, and I am learning **Tableau and Python**.  
+🔹 **Aspiring Data Analyst** with skills in **SQL and Power BI**  
+🔹 Currently learning **Tableau & Python** to expand my analytics toolkit  
+🔹 Passionate about turning raw data into meaningful insights for decision-making  
 
 ---
 
-## 📊 What I Know
-- Excel (Data Cleaning, Pivot Tables, Dashboards)  
-- SQL (Basic Queries, Joins, Subqueries)  
-- Power BI (Data Modeling, DAX, Dashboards)  
-- Learning: Tableau & Python  
+## 🛠️ Skills  
+- **SQL**: Queries, Joins, Subqueries, Database Management  
+- **Power BI**: Data Modeling, DAX, Interactive Dashboards  
+- **Learning**: Tableau, Python  
 
 ---
 
-## 📂 Projects
-- Excel Dashboard – Visualizing data with KPIs  
-- SQL Queries – Practicing Joins & Subqueries  
-- Power BI Report – Interactive Sales Dashboard  
+## 📂 Projects  
+- 📊 **Power BI Sales Dashboard** – Interactive report to track KPIs and sales trends  
+- 🎬 **SQL Database Project** – Movie Ticket Booking System (queries & design)  
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn:  www.linkedin.com/in/tushargaikwad19    
-- Email: gaikwadtushar5555@gmail.com
+## 📫 Connect with Me  
+- LinkedIn: www.linkedin.com/in/tushargaikwad19
+- 📧 Email: gaikwadtushar5555@gmail.com
+
+---
+
+✨ *I’m eager to apply my knowledge in real-world projects and grow as a Data Analyst.* ✨
