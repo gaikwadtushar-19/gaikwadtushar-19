@@ -37,15 +37,55 @@ machine learning and building data-driven solutions.
 
 ## Projects  
 
-### Power BI Sales Dashboard  
-- Built an interactive dashboard to analyze sales and profit performance  
-- Includes KPIs, trends, and regional analysis  
-- Helps identify top-performing categories and regions  
+## 🚀 Projects
 
-### SQL Movie Ticket Booking System  
-- Created a database system for movie ticket booking  
-- Wrote SQL queries for managing bookings, users, and schedules  
-- Practiced database design and normalization concepts  
+### 📊 E-commerce Sales Analysis
+- Analyzed e-commerce sales data to identify sales and profit trends  
+- Performed data cleaning, transformation, and exploratory data analysis using Python  
+- Generated insights about top-selling products, categories, and regions  
+
+**Tools Used:**  
+Python, Pandas, NumPy, Matplotlib
+
+---
+
+### 🧠 Customer Segmentation Analysis
+- Applied K-Means clustering to segment customers based on purchasing behavior  
+- Identified customer groups for targeted marketing strategies  
+- Visualized clusters and patterns in the dataset  
+
+**Tools Used:**  
+Python, Scikit-learn, Pandas, Matplotlib
+
+---
+
+### 💬 Twitter Sentiment Analysis
+- Built a sentiment analysis model to classify tweets as positive, negative, or neutral  
+- Performed text preprocessing and feature extraction  
+- Used machine learning techniques for sentiment classification  
+
+**Tools Used:**  
+Python, NLP, Scikit-learn, Pandas
+
+---
+
+### 📱 Apps Sentiment Analysis
+- Analyzed user reviews of mobile applications to understand customer sentiment  
+- Performed text cleaning and sentiment classification  
+- Extracted insights to identify common issues and user satisfaction trends  
+
+**Tools Used:**  
+Python, NLP, Pandas, Matplotlib
+
+---
+
+### 🏥 Healthcare Analytics Dashboard
+- Built an interactive healthcare analytics dashboard to analyze hospital and patient data  
+- Visualized KPIs, trends, and healthcare performance metrics  
+- Provided insights into healthcare operations and performance  
+
+**Tools Used:**  
+Microsoft Power BI, Data Visualization
 
 ---
 
