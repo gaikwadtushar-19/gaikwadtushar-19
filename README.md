@@ -89,4 +89,4 @@ Microsoft Power BI, Data Visualization
 
 ---
 
-I am eager to contribute to data-driven projects, apply my skills to real-world problems, and grow as a Data Analyst.
+Aspiring Data Analyst focused on turning data into meaningful insights and solving real-world problems.
